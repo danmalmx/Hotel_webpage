@@ -2,4 +2,4 @@
  
  #### Static, HTML / CSS only webpage. 
 
- <img src="https://giphy.com/gifs/hotelsitestatic-bFcxk4gFdey7lJ9C0L">
+ <img src="https://media.giphy.com/media/bFcxk4gFdey7lJ9C0L/giphy.gif">
