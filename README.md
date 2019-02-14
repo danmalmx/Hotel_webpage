@@ -1,6 +1,8 @@
 ﻿# Hotel Webpage
  
  #### Static, HTML / CSS only webpage. 
+ 
+ ### <a href="https://danmalmx.github.io/Hotel_webpage">Demo Page </a>
 
  <img src="https://media.giphy.com/media/bFcxk4gFdey7lJ9C0L/giphy.gif">
  
