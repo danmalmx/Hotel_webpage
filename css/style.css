@@ -54,6 +54,9 @@
     color: #333;
 }
 
+.clr {
+    clear: both;
+}
 html, body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.7em;
@@ -158,4 +161,11 @@ p {
     width: 33.3%;
     padding: 50px;
     text-align: center;
+}
+
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
 }
