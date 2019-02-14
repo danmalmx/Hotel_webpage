@@ -1,3 +1,3 @@
 ﻿# Hotel Webpage
  
- #### Simple, static, HTML / CSS only webpage. 
+ #### Static, HTML / CSS only webpage. 
