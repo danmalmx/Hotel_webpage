@@ -1,6 +1,6 @@
 ﻿# Hotel Webpage
  
- #### Static, HTML / CSS only webpage. 
+ #### Static, responsive (mobile devices) HTML / CSS only webpage. 
  
  ### <a href="https://danmalmx.github.io/Hotel_webpage">Demo Page link </a>
  
